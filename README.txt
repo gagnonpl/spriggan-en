@@ -15,7 +15,7 @@ English text that was already present in the game hasn't been modified except fo
 
 Note on audio sync: Subtitle timing was calibrated for original PC Engine hardware. Audio synchronization can vary substantially under emulation. If the audio and text drift out of sync, especially during in-level dialogs, try another emulator.
 
-Note on BIOS: The patch has been tested and will work will all system card versions. In fact, system cards older than 3.0 have a nicer 12x12 font for menu/credits text, I recommend it =).
+Note on BIOS: The patch has been tested and will work with all system card versions. In fact, system cards older than 3.0 have a nicer 12x12 font for menu/credits text, I recommend it =).
 
 Downloads
 =========
@@ -67,7 +67,7 @@ Seirei Senshi Spriggan (Japan) (Track 27).bin
 
 ROMhacking.net
 ==============
-TODO
+https://www.romhacking.net/translations/7742/
 
 
 Credits
